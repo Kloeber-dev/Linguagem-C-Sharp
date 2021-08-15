@@ -1,0 +1,5 @@
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Lista3\Aulas\Aulas\obj\Debug\net5.0\Aulas.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Lista3\Aulas\Aulas\obj\Debug\net5.0\Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Lista3\Aulas\Aulas\obj\Debug\net5.0\Aulas.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Lista3\Aulas\Aulas\obj\Debug\net5.0\Aulas.AssemblyInfo.cs
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Lista3\Aulas\Aulas\obj\Debug\net5.0\Aulas.csproj.CoreCompileInputs.cache
