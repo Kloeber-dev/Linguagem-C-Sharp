@@ -1,0 +1,16 @@
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\bin\Debug\net5.0\Aula9_Exercicio2.exe
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\bin\Debug\net5.0\Aula9_Exercicio2.deps.json
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\bin\Debug\net5.0\Aula9_Exercicio2.runtimeconfig.json
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\bin\Debug\net5.0\Aula9_Exercicio2.runtimeconfig.dev.json
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\bin\Debug\net5.0\Aula9_Exercicio2.dll
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\bin\Debug\net5.0\ref\Aula9_Exercicio2.dll
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\bin\Debug\net5.0\Aula9_Exercicio2.pdb
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\obj\Debug\net5.0\Aula9_Exercicio2.csproj.AssemblyReference.cache
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\obj\Debug\net5.0\Aula9_Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\obj\Debug\net5.0\Aula9_Exercicio2.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\obj\Debug\net5.0\Aula9_Exercicio2.AssemblyInfo.cs
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\obj\Debug\net5.0\Aula9_Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\obj\Debug\net5.0\Aula9_Exercicio2.dll
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\obj\Debug\net5.0\ref\Aula9_Exercicio2.dll
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\obj\Debug\net5.0\Aula9_Exercicio2.pdb
+C:\Users\klebe\Desktop\IFSP\313 (2021)\LP3 - Linguagem de Programação 3\Linguagem-C-Sharp\Aulas_Exercicios\Aula9_Exercicio2\obj\Debug\net5.0\Aula9_Exercicio2.genruntimeconfig.cache
