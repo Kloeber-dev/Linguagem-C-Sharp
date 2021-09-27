@@ -14,7 +14,9 @@ namespace Aula11_Atividade
         }
         protected override void Caracteristicas()
         {
-            Console.WriteLine("São animais ectotérmicos e possuem o corpo recoberto por escamas e/ou placas ósseas\n\n");
+            base.Caracteristicas();
+            Console.Write("RÉPTEIS\n");
+            Console.WriteLine("São animais ectotérmicos e possuem o corpo recoberto por escamas e/ou placas ósseas");
         }
     }
 }

@@ -14,7 +14,7 @@ namespace Aula11_Atividade
         }
         protected override void Caracteristicas()
         {
-            Console.WriteLine("São animais pecilotérmicos e possuem pele úmida e lisa para facilitar a respiração cutânea");
+            base.Caracteristicas();
             Console.WriteLine("O som emitido pelo jacaré é: COAXADO\n\n");
         }
     }

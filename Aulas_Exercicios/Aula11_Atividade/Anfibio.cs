@@ -15,7 +15,9 @@ namespace Aula11_Atividade
         }
         protected override void Caracteristicas()
         {
-            Console.WriteLine("São animais pecilotérmicos e possuem pele úmida e lisa para facilitar a respiração\n\n");
+            base.Caracteristicas();
+            Console.Write("ANFÍBIOS\n");
+            Console.WriteLine("São animais pecilotérmicos e possuem pele úmida e lisa para facilitar a respiração");
         }
     }
 }

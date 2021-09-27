@@ -14,7 +14,7 @@ namespace Aula11_Atividade
         }
         protected override void Caracteristicas()
         {
-            Console.WriteLine("São animais endotérmicos que possuem pelos e glândulas mamárias");
+            base.Caracteristicas();
             Console.WriteLine("O som emitido pelo gato é: MIADO\n\n");
         }
     }

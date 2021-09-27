@@ -14,7 +14,9 @@ namespace Aula11_Atividade
         }
         protected override void Caracteristicas()
         {
-            Console.WriteLine("São animais endotérmicos que possuem pelos e glândulas mamárias\n\n");
+            base.Caracteristicas(); 
+            Console.Write("MAMÍFEROS\n");
+            Console.WriteLine("São animais endotérmicos que possuem pelos e glândulas mamárias");
         }
     }
 }

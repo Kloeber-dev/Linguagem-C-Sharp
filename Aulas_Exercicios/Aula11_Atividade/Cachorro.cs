@@ -10,11 +10,11 @@ namespace Aula11_Atividade
     {
         public Cachorro()
         {
-        //    this.Caracteristicas();
+         //   this.Caracteristicas();
         }
         protected override void Caracteristicas()
         {
-            Console.WriteLine("São animais endotérmicos que possuem pelos e glândulas mamárias");
+            base.Caracteristicas();
             Console.WriteLine("O som emitido pelo cachorro é: LATIDO\n\n");
         }
     }

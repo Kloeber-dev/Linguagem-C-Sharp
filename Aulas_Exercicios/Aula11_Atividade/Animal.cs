@@ -10,7 +10,7 @@ namespace Aula11_Atividade
     {
         protected virtual void Caracteristicas()
         {
-            Console.WriteLine("CARACTERÍSTICAS-----------------------");
+            Console.Write("CARACTERÍSTICAS-----------------------");
         }
     }
 }

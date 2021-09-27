@@ -14,7 +14,7 @@ namespace Aula11_Atividade
         }
         protected override void Caracteristicas()
         {
-            Console.WriteLine("São animais ectotérmicos e possuem o corpo recoberto por escamas e/ou placas ósseas");
+            base.Caracteristicas();
             Console.WriteLine("O som emitido pelo jacaré é: BRAMIDO\n\n");
         }
     }
